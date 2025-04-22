@@ -10,7 +10,7 @@ This project is a Personal Library Manager that allows users to manage their boo
 * Statistics: Display statistics about the library, such as the total number of books and * the percentage of books read.
 
 # Files
-* 'app.py: The main file for the Streamlit web application.
+* 'app.py': The main file for the Streamlit web application.
 * console.py: The main file for the console-based application.
 * library.txt: The file where the library data is stored.
 
